@@ -19,7 +19,7 @@ My awesome Portfolio
 
 ## Code Snippet
 
-Check out our really clean code. 
+Check out My Portfolio!
 ```html
               <div class="jumbotron">
         <div class="clearfix">
